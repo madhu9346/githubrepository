@@ -1,0 +1,37 @@
+.listItems {
+  padding: 20px;
+  background-color: #f8f8ff;
+  border-radius: 20px;
+  text-align: center;
+}
+.images {
+  height: 150px;
+  width: 150px;
+  border-radius: 5px;
+}
+.head1 {
+  color: red;
+  font-size: 23px;
+  font-weight: bold;
+  font-family: Lobster;
+}
+.container {
+  display: flex;
+  margin: 10px;
+}
+.imagesList {
+  height: 20px;
+  width: 20px;
+}
+.para {
+  color: black;
+  font-weight: bold;
+  font-family: roboto;
+  padding-left: 5px;
+  margin: 0px;
+}
+.para1 {
+  color: black;
+  padding-left: 4px;
+  margin: 0px;
+}

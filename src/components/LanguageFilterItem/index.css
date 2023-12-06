@@ -1,0 +1,13 @@
+.listItems {
+  margin: 6px;
+}
+.btn {
+  color: black;
+  font-weight: bold;
+  font-family: roboto;
+  font-size: 19px;
+  border: 3px solid black;
+  border-radius: 7px;
+  cursor: pointer;
+  padding: 8px;
+}
